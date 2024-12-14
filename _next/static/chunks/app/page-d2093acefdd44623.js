@@ -85,7 +85,7 @@
                         className: "social-links-block",
                         children: [
                           (0, t.jsx)("a", {
-                            href: "https://x.com/",
+                            href: "https://x.com/NaorisxAI",
                             target: "_blank",
                             className: "social-link w-inline-block",
                             children: (0, t.jsx)(i.default, {
@@ -96,7 +96,7 @@
                             }),
                           }),
                           (0, t.jsx)("a", {
-                            href: "https://t.me/",
+                            href: "https://t.me/NaorisxAI",
                             target: "_blank",
                             className: "social-link w-inline-block",
                             children: (0, t.jsx)(i.default, {
