@@ -72,24 +72,6 @@
                         children:
                           "\xa9 2024 Naoris Protocol. All rights reserved.",
                       }),
-                      (0, t.jsxs)("div", {
-                        className: "text-block",
-                        children: [
-                          (0, t.jsx)("a", {
-                            href: "https://naorisprotocol.com/privacy-policy",
-                            target: "_blank",
-                            className: "link",
-                            children: "Privacy Policy",
-                          }),
-                          " - ",
-                          (0, t.jsx)("a", {
-                            href: "https://naorisprotocol.com/terms-and-conditions",
-                            target: "_blank",
-                            className: "link",
-                            children: "Terms and Conditions",
-                          }),
-                        ],
-                      }),
                     ],
                   }),
                   (0, t.jsxs)("div", {
